@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "557498464752",
+    "project_id": "trust-e-shoes",
+    "storage_bucket": "trust-e-shoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557498464752:android:68eb82bd165762b2e0c535",
+        "android_client_info": {
+          "package_name": "com.example.truste_shoes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC-WYKnnQ6OTWtgpscbnQCLCyAzKGMCPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
